@@ -12,20 +12,20 @@
   ],
   "courses": [
     {
-      "id": 1,
       "name": "Introduction to Computer Science",
       "major": "Computer Science",
       "course_number": "CS101",
       "credits": 4,
-      "description": "This course introduces students to the fundamentals of computer science and programming."
+      "description": "This course introduces students to the fundamentals of computer science and programming.",
+      "id": 1
     },
     {
-      "id": 2,
       "name": "Introduction to Biology",
       "major": "Biology",
       "course_number": "BIO101",
       "credits": 4,
-      "description": "This course introduces students to the fundamentals of biology and the scientific method."
+      "description": "This course introduces students to the fundamentals of biology and the scientific method.",
+      "id": 2
     }
   ],
   "students": [
